@@ -1,3 +1,3 @@
-# pivot_table 
+# Pivot Table 
 
 pivot table using two columns 
